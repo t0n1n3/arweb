@@ -25,9 +25,9 @@ video {
 }
 
 .video-options {
-    position: absolute;
+    /* position: absolute;
     left: 20px;
-    top: 30px;
+    top: 30px; */
 }
 
 .controls {
